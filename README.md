@@ -1,0 +1,2 @@
+# Abierto-Cerrado
+principio 
